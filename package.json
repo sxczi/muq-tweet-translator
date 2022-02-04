@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "tesseract.js": "^2.1.5",
+    "translate-google": "^1.5.0"
+  },
+  "name": "miqu-tweets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwuxia/Muqtada-tweet-translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uwuxia/Muqtada-tweet-translator/issues"
+  },
+  "homepage": "https://github.com/uwuxia/Muqtada-tweet-translator#readme",
+  "description": ""
+}
